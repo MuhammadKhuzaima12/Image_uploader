@@ -1,7 +1,14 @@
 :root {}
 
-body{
+body {
     margin: 0;
     padding: 0;
     display: flex;
+    flex-direction: column;
+}
+
+.image_inp_c{
+    width: 500px;
+    height: 300px;
+    border: 2px dotted rgba(74, 74, 250, 0.897);
 }
